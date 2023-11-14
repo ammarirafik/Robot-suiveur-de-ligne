@@ -1,0 +1,3 @@
+QTR : Pululu : module ya9ra position de centre du robot
+Kp tay7a donc robot lent fi tcaptiya
+Kd tekbr barcha robot ywali your3ech
